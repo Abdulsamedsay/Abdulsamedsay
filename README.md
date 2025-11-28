@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samed
 
 🎓 Artificial Intelligence student at Radboud University  
-💡 Interested in Software Engineering, Machine Learning & Metrology Systems  
+💡 Interested in Software Engineering, Machine Learning & LLM
 ---
 
 ### 🔧 Technical Skills
@@ -23,5 +23,5 @@
 ---
 
 ### 📫 Contact
-📧 Email: your email  
-🔗 LinkedIn: (paste later)  
+📧 Email: sameddsayy@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/abdulsamed-say-754981392/
