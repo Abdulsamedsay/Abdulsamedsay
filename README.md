@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Samed
 
-<!--
-**Abdulsamedsay/Abdulsamedsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence student at Radboud University  
+💡 Interested in Software Engineering, Machine Learning & Metrology Systems  
+---
 
-Here are some ideas to get you started:
+### 🔧 Technical Skills
+- Programming: Python, NumPy, Pandas, Matplotlib  
+- Machine Learning: Logistic Regression, Gradient Descent, Model Evaluation  
+- NLP: Tokenization, Stemming, N-gram language modelling, Perplexity  
+- Other: Git, Jupyter Notebook, LaTeX, Data Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Projects (will be added soon)
+| Repository | Description |
+|----------|-------------|
+| NLP-course-assignments | Text tokenization, bigram models, perplexity calculations |
+| knowledge-based-ai-projects | Circuit diagnosis, conflict sets, hitting sets reasoning |
+| from-data-to-model-ml | Logistic regression from scratch, evaluation metrics |
+| research-summaries | Literature reviews, conceptual maps, PDF reports |
+
+---
+
+### 📫 Contact
+📧 Email: your email  
+🔗 LinkedIn: (paste later)  
