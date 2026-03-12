@@ -24,4 +24,4 @@
 
 ### 📫 Contact
 📧 Email: sameddsayy@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/abdulsamed-say-754981392/
+🔗 LinkedIn: https://www.linkedin.com/in/samed-say-754981392/
